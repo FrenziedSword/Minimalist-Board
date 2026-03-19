@@ -1,5 +1,5 @@
 # Minimalist-Board
-Minimalistic WhiteBoard software for people who can have fun with small little things and not want bloat.
+Minimalistic WhiteBoard Application purely built in **Java** for people(you and the board) who can have fun with small little things and not want bloat.
 
 ## v1.0
 * A White Board where you can draw anything or write anything using black ink.
